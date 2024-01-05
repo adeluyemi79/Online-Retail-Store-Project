@@ -38,6 +38,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.2.2</version>
+		<webXml>src/main/webapp/WEB-INF/web.xml</webXml>		 
             </plugin>
 			<plugin>
 				<groupId>org.jacoco</groupId>
