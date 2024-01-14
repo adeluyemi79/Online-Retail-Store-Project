@@ -47,7 +47,7 @@ Kubernetes
 Grafana
 Prometheus
 
-SWORT ONLINE STORE is fast growing online retail store. The store recently witness large increase in products order placed online across the globe but is following the conventional pattern of development and deployment. As a result, it has landed at a great loss and is facing the following challenges.
+SWORT ONLINE STORE is fast growing online retail store. The store recently witnessed a large increase of other order placed online across the globe but is following the conventional pattern of development and deployment. As a result, it has landed at a great loss and is facing the following challenges.
 
 Low available
 Low scalable
