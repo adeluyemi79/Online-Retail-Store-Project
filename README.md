@@ -47,7 +47,7 @@ Kubernetes
 Grafana
 Prometheus
 
-SWORT ONLINE STORE is fast growing online retail store. The store recently witnessed a large increase of order placed online across the globe but is following the conventional pattern of development and deployment. As a result, it has landed at a great loss and is facing the following challenges.
+SWORT ONLINE STORE is fast growing online retail store,and it has recently acquired a large retail offline business store. The business store has a large number of stores across the globe but is following the conventional pattern of development and deployment. As a result, it has landed at a great loss and is facing the following challenges. 
 
 Low available
 Low scalable
@@ -63,14 +63,13 @@ highly scalable
 highly performant
 easily built and maintained
 developed and deployed quickly
-Problem Statements/Tasks
 
 Problem Statements/Tasks
-we developed a CI/CD pipeline to automate the software development, testing, packaging, and deployment, reducing the time to market the app and ensuring good quality service is experienced by end users. In this project, we
-pushed the code to our GitHub repository
-create a continuous integration pipeline using Jenkins to compile, test, and package the code present in GitHub.
+we developed a CI/CD pipeline to automate the software development, testing, packaging, and deployment, reducing the time to market the app and ensuring good quality service is experienced by end users. In this project, source codes used were
+pushed to the GitHub repository, The code Hosting Platform.
+created a continuous integration pipeline using Jenkins to compile, test, and package the code present in GitHub.
 Write Dockerfile to push the war file to the Tomcat server
-Integrate Docker with Ansible and write the playbook
-Deploy artifacts to the Kubernetes cluster
-Monitor resources using Grafana.
+Integrated Docker with Ansible and write the playbook
+Deployed artifacts to the Kubernetes cluster
+Monitored resources using Grafana.
 
