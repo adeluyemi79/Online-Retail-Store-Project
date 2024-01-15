@@ -49,10 +49,10 @@ Prometheus
 
 SWORT ONLINE STORE is fast growing online retail store,and it has recently acquired a large retail offline business store. The business store has a large number of stores across the globe but is following the conventional pattern of development and deployment. As a result, it has landed at a great loss and is facing the following challenges. 
 
-Low available
-Low scalable
-Low performance
-Hard to built and maintain
+Low availability,
+Low scalability,
+Low performance,
+Hard to build and maintain
 Developing and deploying are time-consuming SWORT STORE will acquire the data from all these storage systems and plans to use it for analytics and prediction of the firm’s growth and sales prospects. In the first phase, SWORT STORE has to create the servlets to add a product and display product details. Add servlet dependencies required to compile the servlets. Create an HTML page that will be used to add a product. Our Team used Git to keep all the source code. SWORT STORE has decided to use the DevOps model. we integrated our sorce code from github account with Jenkins and provide continuous build generation for continuous delivery as well as integrate with Ansible and Kubernetes for deployment.  we Use Docker Hub to pull and push images between Ansible and Kubernetes.
 
 Goal of the Project
