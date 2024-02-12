@@ -15,7 +15,7 @@ Prometheus
 Background
 Here are some simple and basic explanations of what each of the tools above are
 
-CI/CD CI and CD stand for continuous integration and continuous delivery/continuous deployment. In straightforward terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Continuous delivery automates the deployment of a release to an environment for staging or testing. Continuous deployment automatically deploys every release through your pipeline (including testing) and to production.
+CI/CD stand for continuous integration and continuous delivery/continuous deployment. In straightforward terms, CI is a modern software development practice in which incremental code changes are made frequently and reliably. Continuous delivery automates the deployment of a release to an environment for staging or testing. Continuous deployment automatically deploys every release through your pipeline (including testing) and to production.
 
 Maven is a project management build tool used primarily in Java development. It is used to manage dependencies and software lifecycle. It is also designed to work with plugins that allow users to add other tasks to the standard compile, test, package, install, and deploy tasks
 
